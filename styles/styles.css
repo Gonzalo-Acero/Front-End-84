@@ -20,9 +20,7 @@ body {
 
 
 .nav {
-    background-color: #FF8906;
-    text-decoration: none;
-    color: #ccc;
+    background-color: #FF8906;    
 }
 
 .nav:visited{

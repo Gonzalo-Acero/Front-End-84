@@ -18,6 +18,23 @@ body {
     z-index: 1;
 }*/
 
+
+.nav {
+    background-color: #FF8906;
+    text-decoration: none;
+    color: #ccc;
+}
+
+.nav:visited{
+    text-decoration: none;
+    color: #ccc;
+}
+
+.nav:hover{
+    background-color: #5E0AF2;
+}
+
+
 .imgmia {
     width: 14%;
     height: 14%;
@@ -36,6 +53,17 @@ body {
 .alinear-texto {
     padding: 10px;
     margin-left: 30px;
+    border-radius: 30px;
+    border-color:#5E0AF2;
+}
+
+.card{
+    padding: 10px;
+    margin-left: 30px;
+    border-radius: 30px;
+    border-color:#5E0AF2;
+    margin: 10px;
+    background-color: #FF8906;
 }
 
 .texto-modificado {

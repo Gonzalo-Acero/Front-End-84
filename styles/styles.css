@@ -19,17 +19,34 @@ body {
 }*/
 
 
-.nav {
-    background-color: #FF8906;    
+.navbar {
+    background-color: #FF8906;
+
+        
 }
+
+
+
+.colored-section{
+    color: #FF8906;
+}
+
+.navbar-brand{
+    color: #FFFFFF;
+}
+
+.nav-link{
+    color: #FFFFFF;
+}
+
 
 .nav:visited{
     text-decoration: none;
-    color: #ccc;
+    /*color: #ccc;*/
 }
 
 .nav:hover{
-    background-color: #5E0AF2;
+    background-color: #ccc;
 }
 
 
@@ -78,3 +95,5 @@ body {
     padding: 10px;
     margin-left: 65px;
 }
+
+

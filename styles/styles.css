@@ -63,9 +63,13 @@ body {
 }
 
 .spinner {
-    display: flex;
-    justify-content: center;
-    margin-top: 150px;
+    position: fixed;
+    z-index: 999999999999;
+	top:0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	background: #FF8906;
 }
 
 .alinear-texto {

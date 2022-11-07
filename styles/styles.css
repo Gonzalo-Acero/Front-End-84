@@ -1,0 +1,33 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+html {
+
+    scroll-behavior: smooth;
+    font-size: 16px
+}
+
+body {
+    background-color: #ccc;
+
+}
+
+.carousel {
+    position: static;
+}
+
+.imgmia {
+    width: 14%;
+    height: 14%;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    z-index: 1;
+}
+
+.spinner {
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}

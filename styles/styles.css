@@ -33,10 +33,13 @@ body {
 
 .navbar-brand{
     color: #FFFFFF;
+    margin-left: 30px;
 }
 
 .nav-link{
     color: #FFFFFF;
+    margin-right: 30px;
+    padding: 10px;
 }
 
 

@@ -21,6 +21,7 @@ body {
 
 .navbar {
     background-color: #FF8906;
+    
 
         
 }
@@ -52,14 +53,20 @@ body {
     background-color: #ccc;
 }
 
+.carousel{
+    position: inherit;
+    z-index: -1;
+}
 
 .imgmia {
+    position: absolute;
+   left: 0;
+   right: 0;
+   top: 60%; 
+   z-index: 9999999;
     width: 14%;
     height: 14%;
     border-radius: 50%;
-    display: flex;
-    flex-direction: column;
-    z-index: -1;
 }
 
 .spinner {

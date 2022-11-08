@@ -34,13 +34,13 @@ body {
 
 .navbar-brand{
     color: #450FA6;
-    margin-left: 30px;
+    margin-left: 1.875em;
 }
 
 .nav-link{
     color: #450FA6;
-    margin-right: 30px;
-    padding: 10px;
+    margin-right: 1.875em;
+    padding: 0.625em;
 }
 
 
@@ -80,34 +80,34 @@ body {
 }
 
 .alinear-texto {
-    padding: 10px;
-    margin-left: 30px;
-    border-radius: 30px;
+    padding: 0.625em;
+    margin-left:  1.875em;
+    border-radius:  1.875em;
     border-color:#5E0AF2;
 }
 
 .card{
-    padding: 10px;
-    margin-left: 30px;
-    border-radius: 30px;
+    padding: 0.625em;
+    margin-left: 1.875em;
+    border-radius: 1.875em;
     border-color:#5E0AF2;
-    margin: 10px;
+    margin: 0.625em;
     background-color: #FF8906;
 }
 
 .texto-modificado {
-    padding: 10px;
-    margin-left: 45px;
+    padding: 0.625em;
+    margin-left: 2.8125em;
 }
 
 .texto-2 {
-    padding: 10px;
-    margin-left: 55px;
+    padding: 0.625em;
+    margin-left: 3.4375em;
 }
 
 .texto-3 {
-    padding: 10px;
-    margin-left: 65px;
+    padding: 0.625em;
+    margin-left: 4.0625em;
 }
 
 

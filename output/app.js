@@ -21,7 +21,7 @@ class Producto {
         this.codigobarras = codigobarras;
     }
 }
-/*var obj = {a:2, b:3, c:4};
-console.log(obj.c)*/
-/*var array =  [1 ,2, 3];
-console.log(array[2]);*/ 
+var obj = { a: 2, b: 3, c: 4 };
+console.log(obj.c);
+var array = [1, 2, 3];
+console.log(array[2]);

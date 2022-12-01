@@ -1,0 +1,12 @@
+{
+    "name": "Gonzalo Julian Acero",
+     "position": "Analista Funcional",
+     "img": "./assets/img/cv_foto_editada.jpeg",
+     "school":{
+        "name": "Escuela Da Vinci",
+        "url": "https://davinci.edu.ar",
+        "img": "#"
+     },
+     "ubication": "Buenos Aires, Argentina",
+     "about": "Estudiante de Analista de Sistemas y Argentina Programa"
+}

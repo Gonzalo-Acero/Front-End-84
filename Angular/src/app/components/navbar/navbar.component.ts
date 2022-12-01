@@ -7,12 +7,9 @@ import { PortfolioService } from 'src/app/services/portfolio.service';
   styleUrls: ['./navbar.component.css']
 })
 export class NavbarComponent implements OnInit {
-
-  constructor(private obtenerDatos:PortfolioService){}
-
-
-    ngOnInit(): void {
-        this.obtenerDatos.obtenerDatos();
-    }
+  
+  ngOnInit(): void {
+      
+  }
 
 }
